@@ -15,3 +15,4 @@ A responsive and professional resume design for a Junior Frontend Developer crea
    - **Education** - List your academic background.
    - **Experience** - Summarize your professional experience.
 4. If desired, adjust the styles in the `style` section of the **`<head>`** or link to an external CSS file for further customization.
+link project: https://roadmap.sh/projects/single-page-cv 
